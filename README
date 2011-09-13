@@ -1,0 +1,13 @@
+Okay, this is just a default Vundle.
+
+For this to work, you have to add this in your ~/.vimrc:
+
+source ~/<vimfiles_dir>/vimrc
+
+Then, you have to install vundle in your <vimfiles_dir>. Also easy:
+
+git clone http://github.com/gmarik/vundle.git ~/<vimfiles_dir>/vundle
+
+Then, in Normal mode, type ':BundleInstall!'
+
+Yeah, that's it. Hard, huh?
